@@ -1,0 +1,41 @@
+body{
+    background-color:#242124;
+}
+h1{
+    font-size:25px;
+    color:#fff;
+    text-align: center;
+    justify-content: center;
+
+}
+.main-body{
+     padding: 10px;
+}
+
+.calc{
+    padding-top: 20px;
+    width:400px;
+    height:450px;
+    background-color: black;
+    margin-left:400px;
+    border-radius: 1rem;
+    padding-bottom: 0px;
+
+}
+#screen{
+    background-color:gray;
+    width:80%;
+    margin-left: 36px;
+    height: 40px;
+    margin-top: 30px;
+    pointer-events: none;
+}
+.btn{
+    width:70px;
+    height: 50px;
+    background-color: #333;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
